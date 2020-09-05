@@ -1,0 +1,18 @@
+{
+  "name": "games.busta.utilities",
+  "displayName": "Busta Games Utilities",
+  "version": "1.0.0",
+  "unity": "2019.4",
+  "description": "Busta Games Utilities package.",
+  "keywords": [
+    "Utilities"
+  ],
+  "category": "Utilities",
+  "contributors": [
+    "Ricardo Bustamante ricardo@busta.dev"
+  ],
+  "type": "tool",
+  "unityRelease": "8f1",
+  "dependencies": {
+  }
+}
