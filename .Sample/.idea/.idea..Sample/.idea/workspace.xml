@@ -24,6 +24,7 @@
         <option value="$PROJECT_DIR$/../BustaGames/Joystick/Runtime/Joystick.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/Joystick/MoveObjectWithInput.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/Misc/FixedRandomScene.cs" />
+        <option value="$PROJECT_DIR$/../README.md" />
       </list>
     </option>
   </component>
@@ -72,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599396205281</updated>
-      <workItem from="1599396210971" duration="18165000" />
+      <workItem from="1599396210971" duration="18911000" />
     </task>
     <servers />
   </component>

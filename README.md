@@ -1,5 +1,11 @@
 # Busta Games Unity Utilities
+
 Code I use for my games and game jams.
+I decided to open it since I already make my game jam games source code available. 
+
+Hope someone else can find my utilities code useful for their own game jam projects, or even more.
+
+Also, feel free to fix bugs or submit improvements. 
 
 # Configuring
 
