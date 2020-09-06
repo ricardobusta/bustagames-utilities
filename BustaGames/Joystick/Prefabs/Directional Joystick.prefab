@@ -95,7 +95,7 @@ MonoBehaviour:
   axisOptions: 1
   snapX: 1
   snapY: 1
-  moveToTouch: 1
+  moveToTouch: 0
   returnOnRelease: 0
   followInput: 0
   followThreshold: 1
