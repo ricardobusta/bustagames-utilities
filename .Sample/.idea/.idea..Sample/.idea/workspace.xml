@@ -8,6 +8,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F8918D0C-C5FC-41A1-BABA-01B207A4C016/a2/58bb1c85/CharacterController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/LoadSceneButton.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5506FD15-1A9B-48FC-B0AE-1883B1A23AE0/60/e9e80012/RectTransformUtility.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Joystick/MoveObjectWithInput.cs" root0="FORCE_HIGHLIGHTING" />
@@ -19,8 +20,8 @@
         <option value="$PROJECT_DIR$/Packages/manifest.json" />
         <option value="$PROJECT_DIR$/../package.json" />
         <option value="$PROJECT_DIR$/Assets/LoadSceneButton.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scenes/Joystick/MoveObjectWithInput.cs" />
         <option value="$PROJECT_DIR$/../BustaGames/Joystick/Runtime/Joystick.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Joystick/MoveObjectWithInput.cs" />
       </list>
     </option>
   </component>
@@ -69,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599396205281</updated>
-      <workItem from="1599396210971" duration="15520000" />
+      <workItem from="1599396210971" duration="17241000" />
     </task>
     <servers />
   </component>
@@ -146,6 +147,10 @@
       <screen x="1920" y="-592" width="2194" height="1205" />
     </state>
     <state width="2151" height="436" key="GridCell.Tab.3.right/1920.-592.2194.1205/0.0.1536.824@1920.-592.2194.1205" timestamp="1599410731694" />
+    <state x="2680" y="-328" width="672" height="678" key="search.everywhere.popup" timestamp="1599423659290">
+      <screen x="1920" y="-592" width="2194" height="1205" />
+    </state>
+    <state x="2680" y="-328" width="672" height="678" key="search.everywhere.popup/1920.-592.2194.1205/0.0.1536.824@1920.-592.2194.1205" timestamp="1599423659290" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

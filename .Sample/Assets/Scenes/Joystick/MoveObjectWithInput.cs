@@ -6,6 +6,11 @@ namespace Scenes.Joystick
     {
         [SerializeField] private BustaGames.Joystick.Joystick[] joys;
 
+        public void Reset()
+        {
+            transform.position = Vector3.zero;
+        }
+        
         private void Update()
         {
             foreach (var joystick in joys)
