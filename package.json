@@ -14,5 +14,6 @@
   "type": "tool",
   "unityRelease": "8f1",
   "dependencies": {
+    "com.dbrizov.naughtyattributes": "2.0.6" 
   }
 }
