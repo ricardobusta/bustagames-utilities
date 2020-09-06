@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/CharacterController/FpsController.unity
     guid: 36b148be1f839484c81af7bd17883a3d
+  - enabled: 1
+    path: Assets/Scenes/Misc/FixedRandom.unity
+    guid: 8f6a4920f1d28bb488246a9cee5754a9
   m_configObjects: {}
