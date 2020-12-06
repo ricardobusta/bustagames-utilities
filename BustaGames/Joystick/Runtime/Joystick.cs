@@ -37,6 +37,8 @@ namespace BustaGames.Joystick
         [Space(8f)]
         public bool moveToTouch;
 
+        public bool IsDown => _isDown;
+
         [ShowIf("moveToTouch")] public bool returnOnRelease;
         [ShowIf("moveToTouch")] public bool followInput;
 
